@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+     <HTML>
+        <head>
+            <title>
+            
+            </title>
+        </head>
+        <body>
+            <main>
+             <!-- Sidebar section -->
+            <div>
+                <H2>Karson Estilette</H2>
+                <p> A plusses all around </p>
+                <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.lpssonline.com%2Fschools%2Fdavid-thibodaux%2Fabout-us%2Ffiles%2Fimages%2FSTEM%2520crest%2520with%2520name.jpg%3Fmask%3D1&imgrefurl=https%3A%2F%2Fwww.lpssonline.com%2Fschools%2Fdavid-thibodaux%2Fabout-us%2Findex&tbnid=mHoxWAw8hRkhBM&vet=12ahUKEwj8puyPkd35AhWz8lMKHefJD9YQMygIegUIARDOAQ..i&docid=DHlrln2FO64gxM&w=3836&h=1194&q=david%20thibodaux&safe=active&ved=2ahUKEwj8puyPkd35AhWz8lMKHefJD9YQMygIegUIARDOAQ"
+            </div>
+             <!-- Content section -->
+            <div>
+                 <h3>Interests</h3>
+            <ul>
+               <li>Thing 1</li>
+               <li>Thing 2</li>
+               <li>Thing 3</li>
+            </ul>
+                <nav>
+                    <h1>Hallebot's Glorious Website</h1>
+                    ul>
+                    <li>
+                    <a href="index.html"> Home </a>
+                    </li>
+                    <li>
+                    <a href="portfolio.html"> Portfolio </a>
+                    </li>
+                    </ul>
+                </nav>
+            </div>
+
+            </main>
+        </body>
+    </HTML>
